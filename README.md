@@ -2,7 +2,7 @@
 
 # Abstract
 
-![tux](assets/demo.gif)
+![tux](demo.gif)
 
 This document describes the Dirty Frag vulnerability class, first discovered and reported by [Hyunwoo Kim (@v4bel)](https://x.com/v4bel), which can obtain root privileges on major Linux distributions by chaining the `xfrm-ESP Page-Cache Write` vulnerability and the `RxRPC Page-Cache Write` vulnerability.
 
